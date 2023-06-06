@@ -1,8 +1,15 @@
 # Browser in Python
-Scaricare il codice main.py e il file requirements.txt.
 
-Eseguire il comando sottostante per installare le librerie necessarie:
+Un browser scritto in Python.
 
-#pip install -r requirements.txt
+Lanciare i segeutni comandi per installare le librerie:
 
-Successivamente eseguire main.py
+```bash
+pip install PyQt5
+```
+
+```bash
+pip install PyQtWebEngine
+```
+
+Una volta installate le librerie, lanciare main.py.
